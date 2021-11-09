@@ -1,0 +1,12 @@
+﻿  list_buckets_response.cpp
+  list_multipart_uploads_response.cpp
+  list_parts_response.cpp
+  win_crypto_impl.cpp
+  正在生成代码...
+  bossdk.vcxproj -> D:\code\oss-sdk\bce-sdk-c++-0.8.4\cppsdk-0.8.4\example\x64\Debug\bossdk.lib
+  命令语法不正确。
+  命令语法不正确。
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: 命令“mkdir D:\code\oss-sdk\bce-sdk-c++-0.8.4\cppsdk-0.8.4\example\Debug
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: copy ..\thirdlib\curl\bin\AMD64\LIBCURL.LIB D:\code\oss-sdk\bce-sdk-c++-0.8.4\cppsdk-0.8.4\example\x64\Debug\  /Y
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: copy ..\thirdlib\curl\bin\AMD64\LIBCURL.DLL D:\code\oss-sdk\bce-sdk-c++-0.8.4\cppsdk-0.8.4\example\x64\Debug\  /Y
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd”已退出，代码为 1。

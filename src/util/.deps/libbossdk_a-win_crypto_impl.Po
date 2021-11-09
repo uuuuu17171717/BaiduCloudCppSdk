@@ -1,0 +1,4 @@
+util/libbossdk_a-win_crypto_impl.o: util/win_crypto_impl.cpp \
+ /home/opt/gcc-4.8.2.bpkg-r4/gcc-4.8.2.bpkg-r4/include/stdc-predef.h
+
+/home/opt/gcc-4.8.2.bpkg-r4/gcc-4.8.2.bpkg-r4/include/stdc-predef.h:

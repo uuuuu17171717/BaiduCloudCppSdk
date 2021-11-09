@@ -1,0 +1,9 @@
+﻿  auth.cpp
+  http_client.cpp
+    正在创建库 D:\code\oss-sdk\bce-sdk-c++-0.8.4\cppsdk-0.8.4\example\Release\bossdk.lib 和对象 D:\code\oss-sdk\bce-sdk-c++-0.8.4\cppsdk-0.8.4\example\Release\bossdk.exp
+  正在生成代码
+  90 of 1452 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    115 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bossdk.vcxproj -> D:\code\oss-sdk\bce-sdk-c++-0.8.4\cppsdk-0.8.4\example\Release\bossdk.dll
