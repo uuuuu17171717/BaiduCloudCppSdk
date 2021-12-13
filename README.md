@@ -1,3 +1,5 @@
+Windows版优化官方SDK，带上传进度
+
 # Baidu Object Storage(BOS) SDK implemented by C++
 
 BOS C++ SDK是Linux的C++开发工具包，提供完备的BOS API
